@@ -1,0 +1,19 @@
+{
+    "teams": [
+      {
+        "name": "Washington Commanders",
+        "capSpace": 68900000,
+        "contracts": [
+          { "player": "Terry McLaurin", "capHit": 23000000, "baseSalary": 18000000, "yearsLeft": 2 },
+          { "player": "Jonathan Allen", "capHit": 15000000, "baseSalary": 12000000, "yearsLeft": 3 }
+        ]
+      },
+      {
+        "name": "New Orleans Saints",
+        "capSpace": -47200000,
+        "contracts": [
+          { "player": "Derek Carr", "capHit": 35000000, "baseSalary": 30000000, "yearsLeft": 2 }
+        ]
+      }
+    ]
+  }
